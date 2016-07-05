@@ -1,5 +1,8 @@
-CPI Monthly
+# Urban CPI Monthly
 
 Consumer Price Index for All Urban Consumers: All Items
 
-Source: https://fred.stlouisfed.org/series/CPIAUCSL#
+* Name: Urban CPI Monthly
+* Source: https://fred.stlouisfed.org/series/CPIAUCSL#
+* Author: David Richards, davidrichards
+
