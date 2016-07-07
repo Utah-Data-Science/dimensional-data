@@ -1,6 +1,6 @@
 name,type,description
 Zipcode,Text,"5 digit Zipcode or military postal code(FPO/APO)"
-ZipCodeType,Text,Standard,"PO BOX Only, Unique, Military(implies APO or FPO)"
+ZipCodeType,Text,"Standard,PO BOX Only, Unique, Military(implies APO or FPO)"
 City,Text,"USPS offical city name(s)"
 State,Text,"USPS offical state, territory, or quasi-state (AA, AE, AP) abbreviation code"
 LocationType,Text,"Primary, Acceptable,Not Acceptable"
