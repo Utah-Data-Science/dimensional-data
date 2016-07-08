@@ -1,0 +1,6 @@
+name,type,description
+ZIP,Integer,ZIP Code
+City Name,Text,City Name
+State Name,Text,State Name
+State,Text,State Abbreviation
+ZCTA,Integer,ZIP Code Tabulation Area

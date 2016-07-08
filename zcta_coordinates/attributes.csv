@@ -1,0 +1,4 @@
+name,type,description
+Latitude,Float,Latitude of the ZCTA centroid
+Longitude,Float,Longitude of the ZCTA centroid
+ZCTA,Text,ZIP Code Tabulation Area
