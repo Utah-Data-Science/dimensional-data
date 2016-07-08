@@ -1,0 +1,8 @@
+name,type,description
+State Abbreviation,Text,The standard state postal address
+State FIPS Code,Text,A 2 digit code
+County FIPS Code,Text,A 3 digit code
+FIPS Entity Code,Text,A 5 digit code
+ANSI Code,Text,An 8 digit code
+GU Name,Text,Unknown
+Entity Description,Text,Indicator of whether or not the entity is a (town city etc)
