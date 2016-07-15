@@ -1,0 +1,33 @@
+# Ignore any local build tools
+setuptools*
+
+# Allow local todo lists
+TODO.rst
+
+# Ignore pycache
+__pycache__
+
+# Ignore local test data
+data
+
+# Ignore any generated code
+*.pyc
+
+# Ignore Environment configuration
+.env
+
+# Ignore tmp
+tmp
+
+# Ignore manual tests
+manual_tests
+
+# Ignore local configuration
+.dim
+
+# Ignore CharmPy files
+.idea
+
+# Ignore spike Jupyter Notebooks used for quality assurance
+Spike.ipynb
+.ipynb_checkpoints

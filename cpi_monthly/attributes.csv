@@ -1,0 +1,3 @@
+name,type,description
+DATE,Date,Day of the data, calculated monthly at the first day of the month.
+CPIAUCSL,Float,Consumer Price Index for all urban consumers for all items
